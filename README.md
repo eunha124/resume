@@ -115,7 +115,7 @@
             <div class="flex justify-center mb-8">
                 <div class="w-48 h-48 md:w-56 md:h-56 rounded-full overflow-hidden border-4 border-slate-600 shadow-xl relative bg-slate-700 flex-shrink-0">
                     <!-- 상대 경로로 지정된 프로필 이미지 -->
-                    <img src="./KakaoTalk_20240522_123911070_08_2.jpg" alt="김은하 프로필" class="w-full h-full object-cover" onerror="this.src='https://placehold.co/400x400/1e293b/ffffff?text=Profile'">
+                    <img src="./KakaoTalk_20240522_123911070_08.jpg" alt="김은하 프로필" class="w-full h-full object-cover" onerror="this.src='https://placehold.co/400x400/1e293b/ffffff?text=Profile'">
                 </div>
             </div>
 
